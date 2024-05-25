@@ -11,7 +11,7 @@ This project is a food website named "Foodie Food" that showcases delicious reci
 - **Responsive Design**: Optimized for viewing on various devices including desktops, tablets, and smartphones.
 
 ## Foodie-Food Website Preview
-
+https://github.com/Paramhans-Singh/Foodie/assets/101575816/d855bd45-43f7-4182-955f-06dd86a1589c
 
 ## Usage
 
@@ -43,3 +43,8 @@ We welcome contributions to improve the website. Follow these steps:
 4. Commit changes.
 5. Push changes to the branch.
 6. Open a pull request.
+
+## Contact
+For any inquiries or issues, please contact:
+- **Email**: paramhanssingh084@gmail.com
+- **GitHub**: [paramhanssingh](https://github.com/Paramhans-Singh)
